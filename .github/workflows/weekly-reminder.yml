@@ -1,0 +1,25 @@
+name: 'Weekly Update Reminder'
+
+on:
+  schedule:
+    - cron: '0 9 * * 1' # Runs every Monday at 9 AM UTC
+
+jobs:
+  create_reminder_issue:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 'Create Reminder Issue'
+        uses: actions-ecosystem/action-create-issue@v1
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          title: 'Weekly Reminder: Update Web Scraping Index'
+          body: |
+            This is an automated reminder to update the list of web scraping tools for this week.
+
+            **Tasks:**
+            - [ ] Check for new pull requests with tool submissions.
+            - [ ] Look for new and updated web scraping tools.
+            - [ ] Update the `readme.md` file with any changes.
+
+            Once the updates are complete, please close this issue.
+          labels: 'reminder' 
