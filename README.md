@@ -244,7 +244,7 @@ Specialized APIs for scraping search engine results pages (SERPs) from search en
 
 - [Aves API](https://avesapi.com) - Lightning-fast SERP API for real-time data scraping from major search engines.
 - [SERPHouse](https://www.serphouse.com) [![Stars](https://img.shields.io/github/stars/SERPHouse/serphouse-nodejs?style=social)](https://github.com/SERPHouse/serphouse-nodejs) - Powerful SERP API delivering real-time search engine data through structured JSON.
-- [SerpApi](https://serpapi.com/) [![Stars](https://img.shields.io/github/stars/serpapi/serpapi?style=social)](https://github.com/serpapi/serpapi) - Search API providing Google Search results for AI agents.
+- [SerpApi](https://serpapi.com/) [![Stars](https://img.shields.io/github/stars/serpapi/serpapi?style=social)](https://github.com/serpapi/) - Search API providing Google Search results for AI agents.
 - [Serper](https://serper.dev/) - Performant and cost-effective search API for AI agents.
 
 ## Proxy Service Provider
