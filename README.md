@@ -218,7 +218,6 @@ Companies that provide 'done-for-you' web scraping services, data extraction as 
 - [ScrapingBee](scrapingbee.com) - Web scraping API service with proxy management.
 - [ScrapingFish](scrapingfish.com) - Proxy service for reliable web data scraping.
 - [Scrappey](scrappey.com) - Proxy service for web data access and collection.
-- [SerpApi](https://serpapi.com/) - Search API providing Google Search results for AI agents.
 - [SerpWow](serpwow.com) - Proxy service for web scraping and data collection.
 - [Serper](serper.dev) - Google Search API service for developers.
 - [Shifter](shifter.io) - Residential and datacenter proxy solutions.
@@ -245,7 +244,7 @@ Specialized APIs for scraping search engine results pages (SERPs) from search en
 
 - [Aves API](https://avesapi.com) - Lightning-fast SERP API for real-time data scraping from major search engines.
 - [SERPHouse](https://www.serphouse.com) [![Stars](https://img.shields.io/github/stars/SERPHouse/serphouse-nodejs?style=social)](https://github.com/SERPHouse/serphouse-nodejs) - Powerful SERP API delivering real-time search engine data through structured JSON.
-- [SerpApi](https://serpapi.com/) [![Stars](https://img.shields.io/github/stars/serpapi/?style=social)](https://github.com/serpapi/) - Search API providing Google Search results for AI agents.
+- [SerpApi](https://serpapi.com/) [![Stars](https://img.shields.io/github/stars/serpapi/serpapi?style=social)](https://github.com/serpapi/serpapi) - Search API providing Google Search results for AI agents.
 - [Serper](https://serper.dev/) - Performant and cost-effective search API for AI agents.
 
 ## Proxy Service Provider
